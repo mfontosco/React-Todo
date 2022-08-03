@@ -9,3 +9,11 @@
     background-color: #C9BBCF;
     font-size: 18px;
 }
+
+@media (max-width:480px) {
+    .container{
+        width: 340px;
+        
+    }
+    
+}

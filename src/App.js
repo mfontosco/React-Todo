@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Header from './Components/Header/Header';
 import TodoContainer from './Components/TodoContainer/TodoContainer';
@@ -14,7 +13,7 @@ function App() {
   const {modalIsOpen,todoList,updateModalIsOpen,setModalIsOpen}=store
 
   return (
-    <div>
+    <div className='container'>
       <Header/>
      
       <div  className="App">
