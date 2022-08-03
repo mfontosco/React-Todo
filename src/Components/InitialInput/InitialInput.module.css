@@ -1,0 +1,23 @@
+.container{
+    width: 500px;
+    padding: 10px 20px;
+    color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.container form input{
+    padding: 10px 20px;
+    width: 400px;
+}
+.container form input:focus{
+    outline: none;
+}
+.container form button{
+padding: 10px;
+background-color: #7F5283;
+color: white;
+border-radius: 5px;
+cursor: pointer;
+}

@@ -1,0 +1,26 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+.container .li{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: auto;
+}
+.container .li li h3{
+    color: #7F5283;
+}
+.dot{
+    margin-right: 5px;
+    display: flex;
+    
+}
+.icon{
+cursor: pointer;
+color: #7F5283 ;
+}

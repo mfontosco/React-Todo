@@ -1,0 +1,11 @@
+.container{
+    height: auto;
+    width: 500px;
+    background-color: white ;
+}
+.btn{
+    padding: 10px;
+    border-radius: 30px;
+    background-color: #C9BBCF;
+    font-size: 18px;
+}
